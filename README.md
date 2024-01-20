@@ -19,3 +19,7 @@ Download the package and place the contents inside the same folder as the `disco
 
 ### Step 4: Run the script
 Install the required packages and run the Python script. After it's done, the results will be in a file called `output.txt`.
+
+Example output:
+
+![Example output](example_output.png)
